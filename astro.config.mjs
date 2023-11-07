@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://elsbeth-m.github.io',
-	base: 'personal-website',
+	site: 'https://www.monrroy-elsbeth.fr',
+	// base: 'personal-website',
 	integrations: [mdx(), sitemap()],
 });
