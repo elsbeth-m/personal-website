@@ -1,5 +1,5 @@
 ---
-title: 'Trusted Platform Module'
+title: 'Introduction to the Trusted Platform Module'
 description: 'Introduction to the TPM and basic usage'
 pubDate: 'Nov 07 2023'
 heroImage: '/tpm-circuit.jpg'
@@ -12,6 +12,7 @@ heroImage: '/tpm-circuit.jpg'
 - Overview on TPM 
 - Real usage of TPM --> Intel TXT, bitlocker, TPM on IoT
 - Overview of vulnerabilities
+
 
 
 
